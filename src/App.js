@@ -6,7 +6,6 @@ import Signup from './Components/Signup';
 import Login from './Components/Login';
 import Header from './Components/Header'
 import './App.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
